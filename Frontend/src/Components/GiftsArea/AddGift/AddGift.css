@@ -1,0 +1,63 @@
+.AddGift  {
+	width: 450px;
+    padding: 20px;
+    margin: 20px;
+
+    /* width: 250px; */
+    /* text-align: left; */
+    /* border: 1px solid black;  */
+    /* padding: 10px; */
+    /* margin: 10px auto; */
+}
+
+.AddGift input, .AddGift select {
+    width: 100%;
+    margin: 5px 0;
+}
+/* .AddGift .TextBox {
+    width: 100%;
+    margin: 5px 0;
+} */
+
+.AddGift span {
+    color: red;
+    margin: 0 30px;
+    position: absolute; 
+}
+
+.AddGift button {
+    padding: 20px;
+    width: 100%
+}
+
+/* .AddProduct > form {
+	width: 250px;
+    margin: auto;
+    text-align: left;
+
+    
+}
+
+/* for addproduct:  */
+  /* width: 250px; */
+    /* text-align: left; */
+    /* border: 1px solid black;  */
+    /* padding: 10px; */
+    /* margin: 10px auto; */
+
+/* .AddProduct input, .AddGift select {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+
+.AddProduct button {
+    width: 100%;
+    margin: 10px 0 20px 0;
+}
+
+.AddProduct span {
+    color: red;
+    margin: 0 20px;
+    position: absolute;
+}  */
